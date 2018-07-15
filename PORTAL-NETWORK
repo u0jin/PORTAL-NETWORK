@@ -1,0 +1,59 @@
+*What is Mirage?           
+
+Mirage is a decentralized virtual reality (VR) 
+                                         massively multiplayer online (MMO) 
+                                         role-playing adventure game (RPG) 
+                                                                                                   → VR MMORPG
+
+
+In Mirage, you can load the game
+                                                      through your internet browser 
+                                                          or 
+                                                      through VR headsets (Google Daydream/Cardboard, 
+                                                      Samsung GearVR, HTC Vive, Oculus Rift, etc)
+*How does Mirage work?  
+Mirage can utilize decentralized databases (DB) and content delivery networks (CDN) to provide users with quick content all over the world. 
+
+                           (1) page request                                (2) verify request via DB
+                    
+                                     
+
+                           (3) gather assets from CDN               (4) load virtual environment via IPFS
+
+
+
+Users can complete dynamic transactions with cryptocurrencies (Wanchain, Ethereum, Bitcoin, Litecoin, Ripple, etc)
+
+*Mirage Tech Stack 
+With a decentralized approach, Mirage can support many users and a expansive adventure storyboard.
+
+                          Centralized     Decentralized
+Damain Register             GoDaddy         Portal Network
+Operating System            Windows         Wanchain  
+File Storage                Amazon S3         IPFS
+Data Storage & Management   oracle          Bluzelle
+CDN                         cloudfare        NOIA
+Social Plaform              facebook         status
+
+
+*Monetization
+
+Google AdSense - 90% of Google’s revenue
+
+click/gaze-through-rates (CTR/GTR)                   
+CTR/GTR industry averageare nearly 30% on       VS        1% mobile, 0.4% desktopVR advertisement platforms                                 (src: Innovid 2016                                                                             Global Benchmarks)
+
+
+*Use case
+
+Users visit the site.
+By default, there are 10 different virtual pets available and users can choose their own pets.
+Other unique pets must be purchased at the user's market.
+Users can feed their pets in a virtual space, take a walk together, and enjoy fun together.
+By doing so, users can overcome loneliness and gain a sense of accomplishment by seeing how their pet grows.
+It can also be used as a companion animal education material for the owner before the sale of puppies and other animals. By doing so, when selling virtual pets among users, the seller can preview and sell the characteristics of the buyer in advance.
+
+
+
+
+
